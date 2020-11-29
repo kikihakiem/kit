@@ -3,6 +3,7 @@ module github.com/go-kit/kit
 go 1.13
 
 require (
+	github.com/ThreeDotsLabs/watermill v1.1.1
 	github.com/VividCortex/gohistogram v1.0.0
 	github.com/afex/hystrix-go v0.0.0-20180502004556-fa1af6a1f4f5
 	github.com/apache/thrift v0.13.0
